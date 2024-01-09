@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vikas Ranjan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Node JS
-- 💞️ I’m looking to collaborate on Projects related to web development in React JS
+- 🌱 I’m currently learning advance Node JS
+- 💞️ I’m looking to collaborate on Projects related to web development in React JS and Next JS
 - 📫 How to reach me - Visit my portfolio https://vikasranjan-portfolio.vercel.app/
 
 <!---
